@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Harry Liu"
+title                    : "Yikai (Harry) Liu"
 title_separator          : "-"
-name                     : &name "Harry Liu"
-description              : &description "AI Scientist at Merck working on machine learning for molecular dynamics, protein ensembles, and scientific computing."
+name                     : &name "Yikai (Harry) Liu"
+description              : &description "AI Scientist at Merck. Previously PhD student at Purdue University, working at the intersection of theoretical chemistry, computational biology, and generative machine learning."
 url                      : "https://harrydirk41.github.io"
 baseurl                  : ""
 repository               : "Harrydirk41/Harrydirk41.github.io"
@@ -21,9 +21,9 @@ repository               : "Harrydirk41/Harrydirk41.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Harry Liu"
+  name             : "Yikai (Harry) Liu"
   pronouns         :
-  bio              : "AI Scientist at Merck working on machine learning for molecular dynamics, protein ensembles, and scientific computing."
+  bio              : "AI Scientist at Merck. Previously PhD student at Purdue University, working at the intersection of theoretical chemistry, computational biology, and generative machine learning."
   location         : "Cambridge, MA"
   employer         : "Merck"
   uri              :
