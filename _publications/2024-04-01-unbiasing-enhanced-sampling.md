@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-unbiasing-enhanced-sampling
 excerpt: 'A deep generative model approach to unbias enhanced sampling on high-dimensional free energy surfaces.'
-date: 2024-05-01
+date: 2024-04-01
 venue: 'The Journal of Physical Chemistry Letters'
-citation: 'Liu, Y., Ghosh, T. K., Lin, G., &amp; Chen, M. (2024). &quot;Unbiasing enhanced sampling on a high-dimensional free energy surface with a deep generative model.&quot; <i>The Journal of Physical Chemistry Letters</i>.'
+citation: '<b>Liu, Y.</b>, Ghosh, T. K., Lin, G., &amp; Chen, M. (2024). &quot;Unbiasing enhanced sampling on a high-dimensional free energy surface with a deep generative model.&quot; <i>The Journal of Physical Chemistry Letters</i>, 15(14), 3938&ndash;3945.'
 ---
