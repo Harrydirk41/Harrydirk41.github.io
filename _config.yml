@@ -20,7 +20,7 @@ repository               : "Harrydirk41/Harrydirk41.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yikai (Harry) Liu"
   pronouns         :
   bio              : "AI Scientist at Merck. Previously PhD student at Purdue University, working at the intersection of theoretical chemistry, computational biology, and generative machine learning."
