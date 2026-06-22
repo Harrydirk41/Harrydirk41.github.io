@@ -9,56 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+.cv-entry { margin-bottom: 0.9em; }
+.cv-row { display: flex; justify-content: space-between; align-items: baseline; }
+.cv-row .cv-right { text-align: right; white-space: nowrap; padding-left: 1.5em; }
+</style>
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<div class="cv-entry">
+  <div class="cv-row">
+    <strong>Purdue University</strong>
+    <span class="cv-right">West Lafayette, IN</span>
+  </div>
+  <div class="cv-row">
+    <em>Ph.D., Mechanical Engineering — Theoretical Chemistry and Machine Learning</em>
+    <span class="cv-right"><em>Sept. 2021 – May 2026</em></span>
+  </div>
+</div>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<div class="cv-entry">
+  <div class="cv-row">
+    <strong>Rice University</strong>
+    <span class="cv-right">Houston, TX</span>
+  </div>
+  <div class="cv-row">
+    <em>B.S., Computer Science and Mechanical Engineering</em>
+    <span class="cv-right"><em>Aug. 2018 – May 2021</em></span>
+  </div>
+</div>
