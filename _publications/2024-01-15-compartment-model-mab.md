@@ -1,7 +1,7 @@
 ---
 title: "A compartment model for subcutaneous injection of monoclonal antibodies"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2024-compartment-model-mab
 excerpt: 'A compartment model describing the subcutaneous injection and absorption of monoclonal antibodies.'
 date: 2024-01-15

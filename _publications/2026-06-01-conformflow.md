@@ -1,7 +1,7 @@
 ---
 title: "ConformFlow: scalable normalizing flow for protein conformational ensemble generation"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/2026-conformflow
 excerpt: 'A scalable normalizing flow for generating protein conformational ensembles.'
 date: 2026-06-12

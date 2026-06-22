@@ -1,7 +1,7 @@
 ---
 title: "Unbiasing enhanced sampling on a high-dimensional free energy surface with a deep generative model"
 collection: publications
-category: manuscripts
+category: publications
 permalink: /publication/2024-unbiasing-enhanced-sampling
 excerpt: 'A deep generative model approach to unbias enhanced sampling on high-dimensional free energy surfaces.'
 date: 2024-04-01
